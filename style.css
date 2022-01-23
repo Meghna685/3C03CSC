@@ -1,15 +1,9 @@
 
-h1{
-    color:blue;
-    text-align:center;
-  }
+body {
+  background-color: lightblue;
+}
 
-
-  p{
-     font-style:italic;
-  }
-
-  body{
-     width:80%;
-     margin:auto;
-  }
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
